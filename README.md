@@ -2,7 +2,7 @@
 MARS MIPS Program that utilizes the MARS bitmap display tool
 
 ## INSTRUCTION MANUAL
-1. Download the MARS MIPS Simulator here: [Jarrett Billingsley Enhanced MARS MIPS Simulator](https://jarrettbillingsley.github.io/teaching/classes/cs0447/software.html)
+1. Download the MARS MIPS Simulator here: [Jarrett Billingsley Enhanced MARS MIPS Simulator](https://jarrettbillingsley.github.io/teaching/classes/cs0447/software.html) or use the provided MARS jar file in this repository
 2. Open the black-dot-mover.asm file in MARS
 3. In the MARS menu click **TOOLS**, then **BITMAP DISPLAY**
 4. Change the settings to match the following:
